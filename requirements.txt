@@ -1,0 +1,22 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Network analysis
+networkx>=3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical analysis
+statsmodels>=0.14.0
+
+# Data processing
+tqdm>=4.65.0
+
+# Optional: for advanced analyses
+# torch>=2.0.0  # For embedding analyses
+# transformers>=4.30.0  # For model comparisons

@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Data (if needed, can be adjusted)
+# Uncomment if you want to exclude large data files from git
+# data/llm_outputs/*.csv
+# !data/llm_outputs/README.md
+
+# Results and outputs
+results/
+outputs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large files (Git LFS)
+*.png
+*.jpg
+*.pdf
+*.pkl
+*.h5
+*.hdf5
+
+# Exceptions - keep example images
+!docs/images/*.png
+!docs/images/*.jpg
