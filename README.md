@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-blue.svg)]()
-[![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-red.svg)]()
+
 
 A comprehensive benchmark for evaluating semantic grounding in Large Language Models (LLMs) through word association tasks.
 
