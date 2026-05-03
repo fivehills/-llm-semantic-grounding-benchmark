@@ -207,10 +207,9 @@ Our analysis reveals three levels of semantic grounding in LLMs:
 If you use this benchmark in your research, please cite:
 
 ```bibtex
-@inproceedings{yourname2026grounding,
-  title={Semantic Grounding in Large Language Models: A Multi-Condition Benchmark},
-  author={Your Name and Collaborators},
-  booktitle={Advances in Neural Information Processing Systems},
+@inproceedings{sun2026grounding,
+  title=Prompt-Induced Redistribution of Grounded Semantic Relations in Large Language Models},
+  author={Kun Sun, and Rong Wang},
   year={2026}
 }
 ```
@@ -266,7 +265,7 @@ We welcome contributions! Please see `CONTRIBUTING.md` for guidelines on:
 
 For questions or issues, please:
 - Open an issue on GitHub
-- Email: your.email@institution.edu
+- Email: kunsun@tongji.edu.cn
 
 ## Changelog
 
